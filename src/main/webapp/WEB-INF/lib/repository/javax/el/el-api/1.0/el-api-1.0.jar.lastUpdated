@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 28 09:15:06 CST 2015
+http\://repo.maven.apache.org/maven2/.lastUpdated=1451265306226
+http\://202.43.152.168/nexus/content/repositories/public/.error=Could not transfer artifact javax.el\:el-api\:jar\:1.0 from/to ruyicai (http\://202.43.152.168/nexus/content/repositories/public/)\: No response received after 60000
+default-http\://202.43.152.168/nexus/content/repositories/public/.lastUpdated=1451265295712
